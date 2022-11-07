@@ -1,0 +1,22 @@
+.style {
+    list-style-type: none;
+    padding: 10px;
+    text-align: left;
+    background-color: #d4cd6a;
+    float: center;
+  }
+  
+  .button {
+    background-color: #ffffff;
+    color: black;
+    border-radius: 20px;
+    padding: 10px;
+    column-span: all;
+    padding-left: 80px;
+    padding-right: 80px;
+    border-style: solid;
+  }
+  .list {
+    list-style-type: square;
+    padding-left: 10px;
+  }
